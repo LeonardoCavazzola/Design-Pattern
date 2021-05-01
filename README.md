@@ -2,7 +2,7 @@
 
 Developed in the course of Alura
 
-Course Link:
+Courses Links:
 
 https://alura.com.br/curso-online-introducao-design-patterns-java
 
