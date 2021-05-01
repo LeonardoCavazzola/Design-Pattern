@@ -4,7 +4,7 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Map;
 
-public class JavaHttpAdapter implements HttpAdgeapter {
+public class JavaHttpAdapter implements HttpAdapter {
 
 	@Override
 	public void post(String url, Map<String, Object> dados) {
